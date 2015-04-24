@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise5</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="communication">Communication</string>
+</resources>
